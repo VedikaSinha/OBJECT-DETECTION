@@ -1,0 +1,51 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#TV
+{
+text-align: center;
+height: 40px;
+width: 120px;
+border-radius: 80px;
+font-size: x-large;
+}
+#room
+{
+text-align: center;
+height: 40px;
+width: 150px;
+border-radius: 80px;
+font-size: x-large;
+}
+#bottle
+{
+text-align: center;
+height: 40px;
+width: 120px;
+border-radius: 80px;
+font-size: x-large;
+}
+#book
+{
+text-align: center;
+height: 40px;
+width: 120px;
+border-radius: 80px;
+font-size: x-large;
+}
+#kitchen
+{
+text-align: center;
+height: 40px;
+width: 120px;
+border-radius: 80px;
+font-size: x-large;
+}
